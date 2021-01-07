@@ -1,0 +1,23 @@
+
+
+Ciao, il cestino è collegato ad un arduino Uno, un servo ed un sensore ad ultrasuoni.
+
+Entrambi sono collegati ad arduino e non necessitano di alcuna alimentazione esterna.
+
+Il meccanismo l'ho creato prendendo una bacchetta della carta stagnola(sarebbe quella per tagliarla che è posta nel basso) e l'ho collegata 
+al servo tramite una graffetta che ho arrotondato.
+Dopo le dovute prove ho provato anche i valori del servo e del sensore che ho scelto all'incirca di 20cm.
+
+per adesso è collegato tramite il jack ma penso che inserirò una batteria da 9V con il suo apposito adattatore per alimentare arduino.
+
+/////////////////////////////////////////////
+
+
+Hi, this bin is powered by Arduino Uno, a servo and a Ultrasonic Sensor.
+
+Sensor and Servo are connected to arduino 5V and both don't need an esternal power source.
+
+The mechanism is from a piece of an hacksaw i had at home, you may use what you want and then i used a clip connected to servo and to the piece.
+
+Now arduino is connected with a Jack with a powersupply  220 -12V DC (you may find it on amazon) then I will use a 9v Battery connected with the same jack of arduino.
+
